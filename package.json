@@ -1,7 +1,7 @@
 {
-  "name": "collage",
+  "name": "react-gestalt-collage",
   "description": "Collage ported to TypeScript from pinterest/gestalt",
-  "homepage": "https://github.com/Kronuz/Collage",
+  "homepage": "https://github.com/Kronuz/react-gestalt-collage",
   "version": "0.77.0",
   "license": "Apache-2.0",
   "main": "es/index.js",
